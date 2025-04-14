@@ -30,7 +30,7 @@ Built with Compatibility for FiveM, but not required.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/joshua-philip/live-bot.git
+   git clone https://github.com/joshua-philip/discord-stream-bot.git
    cd live-bot
    ```
 
